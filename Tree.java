@@ -26,6 +26,28 @@ System.out.println("I'm going to plant a tree today!");
     System.out.println("  ******* ");
     System.out.println("     *  ");
     System.out.println("     *  ");   
+    System.out.println("    "); 
 
+
+    System.out.println("   ** **   ");
+    System.out.println("  * *** *  ");
+    System.out.println("   ** **   ");
+    System.out.println("  *******  ");
+    System.out.println(" * ** ** * ");
+    System.out.println("  ******* ");
+    System.out.println("     *  ");
+    System.out.println("     *  "); 
+    System.out.println("     *  "); 
+    System.out.println("    ");
+
+    System.out.println("    ****  ");
+    System.out.println("  * **** * ");
+    System.out.println(" * ****** *  ");
+    System.out.println(" *** ** *** ");
+    System.out.println(" *** ** *** ");
+    System.out.println("  *  **  *  ");
+    System.out.println("     **  ");
+    System.out.println("     **  "); 
+    System.out.println("     **  "); 
   }
 }
